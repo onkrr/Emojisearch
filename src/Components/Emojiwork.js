@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 import emojiList from "./emojiList.json"
-import "./Emojiwork.css"
+
 
 
 function searching(result){
