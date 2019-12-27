@@ -5,7 +5,7 @@ class Header extends Component {
         return (
             <div>
                 <br />
-            <img className="image" src="ORimage2.jpeg" alt="Onkar R"></img>
+            <img className="image" src="ORimage2.jpeg" title="Made by Onkar Ratnaparkhi" alt="Onkar R"></img>
                 <h1 className="Header">Emoji Search</h1>
             </div>
         )
