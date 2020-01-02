@@ -30,7 +30,7 @@ export class Emojiwork extends Component {
                 
                 <input 
                 type="search" 
-                onChange={e => this.setState({search:e.target.value})} 
+                onChange={this.onChange} 
                 className='Searchbox'
                 placeholder='Search Your Emoji'></input>
                 <br />
